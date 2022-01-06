@@ -1,6 +1,7 @@
 # Deployed project to Heroku
 https://final-web-app2.herokuapp.com/
 
+1. Homepage
 
 ![image](https://user-images.githubusercontent.com/72644178/148368060-278f1c70-4926-46e4-a1df-2a612e3b3be8.png)
 
