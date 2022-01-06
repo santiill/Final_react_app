@@ -8,9 +8,9 @@ https://final-web-app2.herokuapp.com/
 3. 
 ![image](https://user-images.githubusercontent.com/72644178/148363149-a1ee065e-6bc9-4bc9-8be4-cd2829f83e55.png)
 
-3. U can search contacts 
+3. U can search contact 
 
-![image](https://user-images.githubusercontent.com/72644178/148363257-e02d97e2-5f01-485f-9475-863c5370391d.png)
+![image](https://user-images.githubusercontent.com/72644178/148368277-5993a13f-ebe7-42ae-9315-b55d41dca48d.png)
 
 
 
