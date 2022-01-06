@@ -1,7 +1,13 @@
 # Deployed project to Heroku
 https://final-web-app2.herokuapp.com/
 
-![image](https://user-images.githubusercontent.com/72644178/148362870-a6720fe3-5097-41af-a5f3-d02e1e07bf85.png)
+![image](https://user-images.githubusercontent.com/72644178/148362992-f719a844-2ddf-4c14-9118-ff6b17f20e53.png)
+
+2. U can see more information
+![image](https://user-images.githubusercontent.com/72644178/148363149-a1ee065e-6bc9-4bc9-8be4-cd2829f83e55.png)
+
+3. U can search contacts 
+![image](https://user-images.githubusercontent.com/72644178/148363257-e02d97e2-5f01-485f-9475-863c5370391d.png)
 
 
 
