@@ -34,14 +34,6 @@ const Contact = (item) => {
             className={toggle ? "red_heart" : "white_heart"}
           />
         </div>
-        <ul className="contact_info">
-          <li>
-            {item.city} city, {item.country}
-          </li>
-          <li>{item.phoneNumber}</li>
-          <li>{item.website}</li>
-          <li>{item.email}</li>
-        </ul>
         <Link to={`/item/${item.id}`}>
           <button className="contact_button">More</button>
         </Link>
