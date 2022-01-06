@@ -60,7 +60,7 @@
 
 .contact_container {
   width: 250px;
-  height: 303px;
+  height: 230px;
   background: #ffffff;
   box-shadow: 1px 1px 3px rgba(33, 33, 33, 0.25);
   border-radius: 4px;
@@ -99,12 +99,14 @@
 }
 
 .contact_button {
-  background: #212121;
-  border-radius: 2px;
+  background: #625e5e;
+  border-radius: 10px;
   color: white;
-  float: right;
-  width: 95px;
-  height: 21px;
+  width: 160px;
+  position: relative;
+  left: 35px;
+  top: 16px;
+  height: 25px;
   cursor: pointer;
 }
 
